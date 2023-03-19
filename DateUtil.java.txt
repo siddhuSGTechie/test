@@ -1,0 +1,6 @@
+public class DateUtil{
+
+public String dtaAsString(){
+	//some logic here
+}
+}
